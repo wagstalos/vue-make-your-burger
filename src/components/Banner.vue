@@ -1,6 +1,7 @@
 <template>
     <div id="main-banner">
         <h1>Make you Burger</h1>
+        <p>formulário</p>
     </div>
 </template>
 
