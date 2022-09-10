@@ -2,7 +2,8 @@
   <div>
     <Banner />
     <div class="main-container">
-      <h1>Monte o seu burger</h1>
+      <h2>Monte o seu burger</h2>
+      <div class="underline"></div>
       <BurguerForm />
     </div>
   </div>
@@ -17,7 +18,7 @@ export default {
   components: {
     Banner,
     BurguerForm
-}
+  }
 }
 
 </script>
